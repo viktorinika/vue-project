@@ -8,7 +8,7 @@ defineProps({
 </script>
 
 <template>
-  <button class="button btn dfgfg">
+  <button class="button">
     {{ text }}
   </button>
 </template>
